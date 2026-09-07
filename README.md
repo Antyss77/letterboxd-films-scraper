@@ -22,7 +22,7 @@ automatically.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/letterboxd-films-scraper.git
+git clone https://github.com/Antyss77/letterboxd-films-scraper.git
 cd letterboxd-films-scraper
 python3 -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
